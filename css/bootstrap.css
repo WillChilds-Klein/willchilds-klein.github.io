@@ -6351,13 +6351,9 @@ button.close {
 }
 /**/
 
-.background { 
-  padding-top: 40px;
-  padding-bottom: 0px;
-  padding-left: 0px;
-  padding-right: 0px;
-  /*height: 1788px;
-  width: 3060px;*/
+.background {
+  text-align: center;
+  height: 92vh;
 }
 
 .bot_footer a:link{color: #ffffff;}
